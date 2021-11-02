@@ -1,6 +1,6 @@
 # Binance API RSI trading bot
 
-This trading bot uses Binance's API to automatically place buy and sell orders using a one minute timeframe. I took on this project to develop further my Python understandig skills outside Data Science environments. This is the tutorial I've followed: https://www.youtube.com/watch?v=GdlFhF6gjKo
+This trading bot uses Binance's API to automatically place buy and sell orders using a one minute timeframe. I took on this project to further develop my Python understanding and  skills outside Data Science environments. This is the tutorial I've followed: https://www.youtube.com/watch?v=GdlFhF6gjKo
 
 I've used this source to learn more about the RSI: https://blog.devgenius.io/overlaying-the-relative-strength-index-rsi-on-multiple-stocks-crypto-in-python-64a46f9837a1
 
